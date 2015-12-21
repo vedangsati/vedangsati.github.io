@@ -45,13 +45,8 @@ div#name{
 	height:90px;
 	color: #e94f6e;
 	font-size: 30px;
-	border-bottom: 0px solid #e94f6e;
-	-webkit-transition: all 0.4s ease;
+	border-bottom: 10px solid #e94f6e;	
 	cursor: pointer;
-}
-div#name:hover{
-	border-bottom: 10px solid #e94f6e;
-	-webkit-transition: all 0.4s ease;
 }
 div#links{
 	position: absolute;
